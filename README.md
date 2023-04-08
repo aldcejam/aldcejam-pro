@@ -1,21 +1,17 @@
 
- <div align="center" >
-<img src="https://github-profile-trophy.vercel.app/?username=Aldcejam&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
-  <br />
+ <div align="center" > 
+ 
+   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aldcejam&bg_color=red&color=bd93f9&line=bd93f9&point=f1f5f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
-  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aldcejam&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aldcejam&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
   
  
    ![Snake animation](https://github.com/Aldcejam/Aldcejam/blob/output/github-contribution-grid-snake.svg)
   
 
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aldcejam&bg_color=red&color=bd93f9&line=bd93f9&point=f1f5f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aldcejam&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aldcejam&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
+ 
 
 
 
